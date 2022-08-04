@@ -6,5 +6,16 @@ Personal fork of `st`.
 ## Installation
 
 ```
-make clean install
+sudo make clean install
 ```
+
+## Patches
+
+Added the following patches:
+
+* `font2`.
+* `gruvbox`.
+
+## Dependencies
+
+In arch, please install `libxft-bgra` from the AUR.
