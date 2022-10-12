@@ -15,6 +15,7 @@ Added the following patches:
 
 * `font2`.
 * `gruvbox`.
+* `alpha`.
 
 ## Dependencies
 
